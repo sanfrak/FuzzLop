@@ -1,0 +1,5 @@
+/home/xw3xp/DADA/Project/test_fuzzgoat/
+inputer
+outputer
+fuzzgoat
+3

@@ -1,0 +1,1 @@
+)	NEW_FUNC[0/8]: 0x460f20  (/home/xw3xp/Documents/DADA/proj/fuzzgoat/fuzzgoat_llvm+0x460f20)	NEW_FUNC[1/8]: 0x461170  (/home/xw3xp/Documents/DADA/proj/fuzzgoat/fuzzgoat_llvm+0x461170)

@@ -1,0 +1,5 @@
+/home/xw3xp/CS_courses/CS6501_DADA/project/target/fuzzgoat/
+in
+out
+fuzzgoat_afl
+3

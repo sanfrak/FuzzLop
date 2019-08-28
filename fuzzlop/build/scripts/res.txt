@@ -1,0 +1,28 @@
+status check tool for afl-fuzz by <lcamtuf@google.com>
+
+Individual fuzzers
+==================
+
+>>> fuzzer1 (0 days, 0 hrs) <<<
+
+  Instance is dead or running remotely, skipping.
+
+>>> fuzzer2 (0 days, 0 hrs) <<<
+
+  Instance is dead or running remotely, skipping.
+
+>>> fuzzer3 (0 days, 0 hrs) <<<
+
+  Instance is dead or running remotely, skipping.
+
+Summary stats
+=============
+
+       Fuzzers alive : 0
+      Dead or remote : 3 (excluded from stats)
+      Total run time : 0 days, 0 hours
+         Total execs : 0 million
+    Cumulative speed : 0 execs/sec
+       Pending paths : 0 faves, 0 total
+       Crashes found : 0 locally unique
+
